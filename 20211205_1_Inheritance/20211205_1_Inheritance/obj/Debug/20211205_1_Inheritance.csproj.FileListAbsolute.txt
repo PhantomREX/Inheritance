@@ -1,0 +1,15 @@
+C:\Users\local.egitmen\source\repos\20211205_1_Inheritance\20211205_1_Inheritance\bin\Debug\20211205_1_Inheritance.exe.config
+C:\Users\local.egitmen\source\repos\20211205_1_Inheritance\20211205_1_Inheritance\bin\Debug\20211205_1_Inheritance.exe
+C:\Users\local.egitmen\source\repos\20211205_1_Inheritance\20211205_1_Inheritance\bin\Debug\20211205_1_Inheritance.pdb
+C:\Users\local.egitmen\source\repos\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.csprojAssemblyReference.cache
+C:\Users\local.egitmen\source\repos\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\source\repos\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.exe
+C:\Users\local.egitmen\source\repos\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.pdb
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\bin\Debug\20211205_1_Inheritance.exe.config
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\bin\Debug\20211205_1_Inheritance.exe
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\bin\Debug\20211205_1_Inheritance.pdb
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.csproj.AssemblyReference.cache
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.exe
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20211205_1_Inheritance\20211205_1_Inheritance\obj\Debug\20211205_1_Inheritance.pdb
